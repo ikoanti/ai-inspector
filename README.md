@@ -23,3 +23,5 @@ It checks for the presence of **15+ critical bots**, including:
 This script uses **Strict Mode**:
 - It does **not** assume that `User-agent: *` covers missing bots.
 - If a specific bot (e.g., `GPTBot`) is not named explicitly in the file, it will be flagged as **MISSING**.
+
+Made specially for `https://goldenweb.net/`
